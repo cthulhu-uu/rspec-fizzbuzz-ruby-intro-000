@@ -11,5 +11,3 @@ def fizzbuzz(num)
   end
   return nil
 end
-
-puts fizzbuzz(5)
